@@ -1,23 +1,11 @@
-from re import A
+print ("Hello") #this command will print hello
+# means these are comments
+'commas can be used instead of hastag for comments'
+
+'''anything written within three commas are considered as 
 
 
-print("Hello") #function print used for print something.
-''' cannot be shown as these are comments in
+comments'''
 
-
-
-
- triple commas''' 
-
-a=20
+a= input ()
 print(a)
-a="hassan is ---"
-print(a)
-
-a=input("enter the name")
-#a=int(a)
-b=a*2
-print(b,"  ",b)
-c=3
-c-=c
-print (c)
